@@ -1,7 +1,9 @@
+---
 layout: post
 title: "First Post"
 date: 2023-04-14 13:30:00 -0000
 categories: Introduction About
+---
 
 Hi I'm Tom, I'm a Data Science Lecturer and am interested in developing my capacity building web based resources and information about personal projects I am interested in.  I work for the Data Science Campus at the Office for National Statistics, however please note that this is a personal website linked to my personal github account.  It contains only learning projects and training that I'm interested in undertaking outside of my capacity as a Civil Servant.  If you wish to speak to me about anything work related, please visit the Data Science Campus website.
 
