@@ -4,6 +4,8 @@ title: "tbalbone31.github.io"
 
 This is a Quarto website.
 
+> To switch between light and dark modes, use the toggle in the top right
+
 There is some more information here.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
