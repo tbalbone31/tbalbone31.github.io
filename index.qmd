@@ -4,4 +4,6 @@ title: "tbalbone31.github.io"
 
 This is a Quarto website.
 
+There is some more information here.
+
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
