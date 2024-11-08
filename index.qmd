@@ -1,5 +1,5 @@
 ---
-title: "tbalbone31.github.io"
+title: "Embrace the Chaos"
 ---
 
 This is a Quarto website.

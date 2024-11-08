@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "tbalbone31.github.io"
+  title: "Mucking about with Quarto"
   navbar:
     left:
       - href: index.qmd

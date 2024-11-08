@@ -1,0 +1,40 @@
+---
+title: "Embrace the Chaos"
+---
+
+Let's talk Python.  It's a great all purpose programming language that does a lot.  In the data science oepn-source programming language wars, python often gets a bad rep for being too all purpose, particularly when stacked up against it's great rival R.
+
+The thing to know about R is that it was built specifically for statistical programming, therefore can do much more for data science simply from the base code.  Although there are a ton of recommended packages to use for both Python and R, there's no question that R can often be picked up much quicker.
+
+HOWEVER.  I prefer Python.  I don't really know why.  It's not because I've known it for much longer.  R was the first language I did any major project work in back at the Leeds Inistitute for Data Analytics (LIDA).  I picked up Python shortly after.  Neither project really solidified which I preferred.  Ultimately I think I came to the conclusion that the school of thought that they're both useful tools in a toolkit appealed to me more, rather than have any emotional resonance with either.
+
+It wasn't until my current employment that I really started to develop a preference.  Simply put, I was asked to build some small data pipelines in Python.  No choices.  There were dependencies that needed to be satisfied so Python it was.  Spending 10 months building a team of analytical programmers who could assist with the project as it got larger made me a convert I think.  By the end of my time with that team I was much more confident and competent with Python than I was R, but able to undertake basic data processing and analysis in both.  Score.
+
+So how does it work?  Let's get into the weeds.
+
+# A new beginning
+
+Python is like many other programming languages.  It can do very simple things, it can do very complicated things.
+
+Let's start simple.
+
+::: {.panel-tabset} 
+## Question
+
+What do you think this code cell does?  Have a think before uncovering the solution.
+
+```{python}
+#| eval: false
+print("Hello World")
+```
+
+## Solution
+
+The code cell prints text to the python console using the print function.  A function is a built in tool that performs a specific task.
+```{python}
+print("Hello World")
+```
+
+Notice how the text is encapsulated in quote marks?  You can use double quotes "" or single quotes '' to create data types known as **strings**
+
+:::
