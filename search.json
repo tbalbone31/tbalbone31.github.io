@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "tbalbone31.github.io",
     "section": "",
-    "text": "This is a Quarto website.\nThere is some more information here.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a Quarto website.\n\nTo switch between light and dark modes, use the toggle in the top right\n\nThere is some more information here.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "about.html",
